@@ -43,3 +43,7 @@ next-env.d.ts
 /.codex/
 /outputs/
 /work/
+/.site-stage*/
+/gym-juntos*.zip
+/gym-juntos*.tar.gz
+*.tsbuildinfo
